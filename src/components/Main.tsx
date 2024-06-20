@@ -20,37 +20,37 @@ const Main = () => {
           <div>OUR CONNECTION</div>
           <div className='p-2 border-2'>SEE ALL</div>
         </div>
-        <div className='grid grid-cols-4 gap-2'>
+        <div className='grid grid-cols-4 gap-2 mt-6'>
           <div className='relative'>
-            <img src={image1}/>
+            <img className='w-full' src={image1}/>
             <div className='absolute text-white bottom-4 left-4'>DEEP EARTH</div>
           </div>
           <div className='relative'>
-            <img src={image1}/>
+            <img className='w-full' src={image1}/>
             <div className='absolute text-white bottom-4 left-4'>DEEP EARTH</div>
           </div>
           <div className='relative'>
-            <img src={image1}/>
+            <img className='w-full' src={image1}/>
             <div className='absolute text-white bottom-4 left-4'>DEEP EARTH</div>
           </div>
           <div className='relative'>
-            <img src={image1}/>
+            <img className='w-full' src={image1}/>
             <div className='absolute text-white bottom-4 left-4'>DEEP EARTH</div>
           </div>
           <div className='relative'>
-            <img src={image1}/>
+            <img className='w-full' src={image1}/>
             <div className='absolute text-white bottom-4 left-4'>DEEP EARTH</div>
           </div>
           <div className='relative'>
-            <img src={image1}/>
+            <img className='w-full' src={image1}/>
             <div className='absolute text-white bottom-4 left-4'>DEEP EARTH</div>
           </div>
           <div className='relative'>
-            <img src={image1}/>
+            <img className='w-full' src={image1}/>
             <div className='absolute text-white bottom-4 left-4'>DEEP EARTH</div>
           </div>
           <div className='relative'>
-            <img src={image1}/>
+            <img className='w-full' src={image1}/>
             <div className='absolute text-white bottom-4 left-4'>DEEP EARTH</div>
           </div>
         </div>
