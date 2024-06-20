@@ -1,4 +1,3 @@
-import React from 'react'
 import image from '../assets/desktop/image-interactive.jpg'
 import image1 from '../assets/desktop/image-deep-earth.jpg'
 
